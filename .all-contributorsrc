@@ -2,7 +2,7 @@
   "projectName": "Amazon_Project",
   "projectOwner": "Ahmed8aa",
   "files": [
-    "README.md"
+    "CONTRIBUTORS.md"
   ],
   "commitType": "docs",
   "commitConvention": "angular",
