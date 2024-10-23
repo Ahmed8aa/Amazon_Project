@@ -6,7 +6,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Boda1515"><img src="https://avatars.githubusercontent.com/u/132951877?v=4?s=100" width="100px;" alt="Abdelrahman"/><br /><sub><b>Abdelrahman</b></sub></a><br /><a href="#code-Boda1515" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Boda1515"><img src="https://avatars.githubusercontent.com/u/132951877?v=4?s=100" width="100px;" alt="Abdelrahman"/><br /><sub><b>Abdelrahman</b></sub></a><br /><a href="#code-Boda1515" title="Code">💻</a> <a href="#data-Boda1515" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
