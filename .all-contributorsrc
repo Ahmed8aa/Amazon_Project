@@ -1,5 +1,15 @@
 {
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Boda1515",
+      "name": "Abdelrahman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132951877?v=4",
+      "profile": "https://github.com/Boda1515",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "projectName": "Amazon_Project",
   "projectOwner": "Ahmed8aa",
   "repoType": "github",
@@ -24,5 +34,8 @@
       "symbol": "🤝",
       "description": "contribution"
     }
-  }
+  },
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
 }
