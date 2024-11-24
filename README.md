@@ -93,7 +93,7 @@ This project demonstrates a comprehensive data scraping, processing, and visuali
 
 ### 4. Data Warehousing
 - **Azure SQL**:
-  - Star schema design with fact tables (e.g., sales data) and dimension tables (e.g., product details, regions).
+  - Star schema design with fact tables (e.g., Price data) and dimension tables (e.g., product details, regions).
 
 ### 5. Dashboards
 - **Key Visualizations**:
