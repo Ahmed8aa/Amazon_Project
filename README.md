@@ -24,7 +24,7 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-# Data Scraping, Processing, and Visualization Project
+# Azure Ascent: Pioneering Cross-Border E-Commerce Analytics -Data Scraping, Processing, and Visualization Project-
 
 ## Overview
 This project demonstrates a comprehensive data scraping, processing, and visualization pipeline leveraging Azure, GitHub, Power BI, and Tableau. The solution was designed to extract e-commerce data from Amazon's regional websites, transform it using scalable Azure services, and visualize insights using interactive dashboards.
