@@ -19,11 +19,12 @@
   </tbody>
 </table>
 
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
+![dataengineeringproject6 drawio_5f9f4d55](https://github.com/user-attachments/assets/4d73eec5-a2ab-4cea-ab9a-f46c58fc449d)
 # Azure Ascent: Pioneering Cross-Border E-Commerce Analytics (End-To-End Cloud Based Data Engineering Project)
 
 ## Overview
